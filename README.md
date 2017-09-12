@@ -1,4 +1,4 @@
-# Assignment 2 - Basic CSS - Recreating Web Components
+# Basic CSS Web Components
 
 ## Instructions
 
