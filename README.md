@@ -14,10 +14,17 @@ Use what you've learned of CSS styles and properties to recreate the site compon
 ## Setup
 
 ```sh
+# (1) change directories into the class`assignments/` directory
 cd ~/muktek/assignments
+
+# (2) create the directory for the assignment
 mkdir basic-css-web-components
+
+# (3) create the css for the assignment
 cd basic-css-web-components
-curl https://raw.githubusercontent.com/muktek/assignment--basic-css-web-components/master/README.md > assignment-files.zip
+
+# (4) download the
+curl https://raw.githubusercontent.com/muktek/assignment--basic-css-web-components/master/assignment-files.zip > assignment-files.zip
 unzip assignment-files.zip
 ```
 
