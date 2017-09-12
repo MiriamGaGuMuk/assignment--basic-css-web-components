@@ -14,11 +14,11 @@ Use what you've learned of CSS styles and properties to recreate the site compon
 ## Setup
 
 ```sh
-cd ~/TIY/assignments
-mkdir assignment-02
-cd assignment-02
-curl https://raw.githubusercontent.com/TIY-Charleston-Front-End-Engineering/Course-Guide/master/assignments/basic-css-web-components/assignment-files.zip > assignment-files.zip
-unzip assignment-02
+cd ~/muktek/assignments
+mkdir basic-css-web-components
+cd basic-css-web-components
+curl https://raw.githubusercontent.com/muktek/assignment--basic-css-web-components/master/README.md > assignment-files.zip
+unzip assignment-files.zip
 ```
 
 *NOTE:* You will likely want to include `*{box-sizing: border-box}` at the top of your stylesheet
@@ -32,7 +32,8 @@ unzip assignment-02
 ##### Design Specs
 
 ```
-fonts: Georgia & Geneva
+primary font: Georgia, Palatino, serif;
+alternative font: Geneva, Ubuntu, sans-serif;
 line-height: 1.25
 background-color: FBF9F1
 link color: 77A8D2
@@ -128,4 +129,3 @@ link color: `#ff5a5f`
 images:
   random-user1.png
 ```
-
