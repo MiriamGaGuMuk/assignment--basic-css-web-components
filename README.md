@@ -25,6 +25,8 @@ cd basic-css-web-components
 
 # (4) download the
 curl https://raw.githubusercontent.com/muktek/assignment--basic-css-web-components/master/assignment-files.zip > assignment-files.zip
+
+# (5) unzip assignment-files.zip zipfile
 unzip assignment-files.zip
 ```
 
