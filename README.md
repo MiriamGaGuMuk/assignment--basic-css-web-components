@@ -48,6 +48,15 @@ background-color: FBF9F1
 link color: 77A8D2
 ```
 
+##### Copy
+```
+Mark Boulton design was a small design studio. In 2014, we were aquired by Monotype.
+
+Over the years, we built an amazing team and worked on some tremendous projects with the smartest clients. That's something we're proud of, and thankful for. But, it's time for a change.
+
+The move to Monotype brings us closer to the problems we want to fix. Mark Boutlon Design is now closed. The team will be working on Monotype projects from the same premises in the UK and we'll still be writing, blogging, and still speaking at web conferences. We're not going anywhere.
+```
+
 ##### Hint
 
 + use a `<span>` tag and give it a class attribute to apply targeted styles to the 'Monotype' text
