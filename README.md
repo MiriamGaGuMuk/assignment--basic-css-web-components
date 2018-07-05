@@ -61,7 +61,7 @@ The move to Monotype brings us closer to the problems we want to fix. Mark Boutl
 
 + use a `<span>` tag and give it a class attribute to apply targeted styles to the 'Monotype' text
 
-<hr/>
+---
 
 ### Menu List
 
@@ -75,7 +75,7 @@ selected itmem font color: `#66CC99`
 ```
 
 
-<hr/>
+---
 
 ### Icon Set
 
@@ -93,10 +93,7 @@ images:
   linkedin-icon-bw.png
 ```
 
-##### Hint
-- to link to the images in the `src` attribute, you may have to go up a directory (`../`) in order to access the image-file in the `/images` directory 	
-
-<hr/>
+---
 
 ### Navigation Menu
 
@@ -114,7 +111,7 @@ link background color: rgb(205,92,92)
 - use `display: inline-block` to stack the nav-options next to each other.
 - use an `<input type="text"/>` tag to create the 'Search Site' input field where a user could potentially enter information.
 
-<hr/>
+---
 
 ## Explorer Mode
 
@@ -131,7 +128,7 @@ link color: `#DE5233`
 - use `display: inline-block` to stack the columns next to each other and give each column a width of 25%.
 
 
-<hr/>
+---
 
 ## Adventurer Mode
 
