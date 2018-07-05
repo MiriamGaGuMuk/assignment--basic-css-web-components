@@ -70,7 +70,7 @@ The move to Monotype brings us closer to the problems we want to fix. Mark Boutl
 ##### *Design Specs*
 
 ```
-fonts: Avenir
+fonts: Avenir, 'Gill Sans', sans-serif
 selected itmem font color: `#66CC99`
 ```
 
@@ -105,7 +105,7 @@ images:
 ##### *Design Specs*
 
 ```
-font: Futura
+font: Gill Sans, Candara, sans-serif
 link background color: rgb(205,92,92)
 ```
 
@@ -123,7 +123,7 @@ link background color: rgb(205,92,92)
 
 ##### *Design Specs*
 ```
-font: Helvetica Neue
+font: Helvetica, Arial, sans-serif
 top-bar color: #004
 link color: `#DE5233`
 ```
@@ -142,7 +142,7 @@ link color: `#DE5233`
 ##### *Design Specs*
 
 ```
-font: Avenir
+fonts: Avenir, 'Gill Sans', sans-serif
 link color: `#ff5a5f`
 images:
   random-user1.png
