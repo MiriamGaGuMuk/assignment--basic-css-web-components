@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+  background-color: #FBF9F1;
+  font-family: Georgia, Palatino, serif, Geneva, Ubuntu, sans-serif;
+}
+
+.container {
+  margin: 50px 550px 30px 150px;
+  padding-right: 100px;
+}
+.mark {
+  text-decoration: underline;
+}
+
+.mono {
+  background-color: black;
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  padding: 0px 4px;
+}
+
+.container p {
+  font-size: 26px;
+  line-height: 1.25
+}
+
+p span {
+  color: #619FD3;
+}
+
+@media only screen and (max-width: 1300px) {
+  .container {
+      padding-right: 30px;
+      margin: 50px 450px 30px 100px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+      padding-right: 0px;
+      margin: 0px 250px 0px 50px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+      padding-right: 0px;
+      margin: 0px 100px 0px 50px;
+  }
+}

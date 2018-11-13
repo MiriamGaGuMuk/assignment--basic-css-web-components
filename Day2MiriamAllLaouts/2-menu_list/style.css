@@ -1,0 +1,19 @@
+body {
+  font-family: Avenir, 'Gill Sans', sans-serif;
+}
+
+.home {
+  color: #66CC99;
+}
+
+.container {
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  border-top: 1px solid grey;
+  width: 250px;
+}
+
+.container div {
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}

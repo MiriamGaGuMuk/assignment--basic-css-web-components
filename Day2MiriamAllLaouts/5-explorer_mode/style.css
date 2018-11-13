@@ -1,0 +1,80 @@
+body {
+  display: flex;
+  font-family:  Helvetica, Arial, sans-serif;
+}
+
+.column {
+  display: inline-block;
+  width: 25%;
+  vertical-align: top;
+}
+
+nav {
+  background-color: #004;
+  color: white;
+  font-size: 30px;
+  padding: 5px 15px;
+  margin-bottom: 30px;
+  border-left: 1px solid rgba(255,255,255, 0.3);
+}
+
+.topic {
+  margin-bottom: 40px;
+  padding-left: 10px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 0.1;
+}
+
+.by {
+  font-size: 22px;
+  color: rgb(163, 160, 160);
+  line-height: 0.5;
+  font-weight: bold;
+}
+
+.more {
+  padding-left: 10px;
+}
+
+.more p {
+  font-size: 20px;
+  color: #DE5233;
+  font-weight: bold;
+}
+
+
+
+@media only screen and (max-width: 1220px) {
+  .title {
+    font-size: 18px;
+  }
+  .by {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .title {
+    font-size: 14px;
+  }
+  .by {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .title {
+    font-size: 10px;
+  }
+
+  .by {
+    font-size: 10px;
+  }
+
+  nav {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,43 @@
+body {
+  font-family: Gill Sans, Candara, sans-serif;
+}
+
+span {
+  color: grey;
+  padding-left: 10px;
+}
+
+.line {
+  border: 1px solid black;
+}
+
+p {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.flex {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.box {
+  background-color: #C16762;
+  color: white;
+  font-size: 24px;
+  padding: 10px 20px;
+  margin: 10px 20px;
+}
+
+.search {
+  padding-top: 20px;
+  width: 100%;
+  margin-left: 30px;
+}
+
+input {
+  font-size: 18px;
+  background-color: transparent;
+  border: 0px solid;
+  width: 100%;
+}
